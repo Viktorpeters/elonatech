@@ -1,0 +1,1 @@
+write a simple express js route that returns a lits of users from a mongodb database 
