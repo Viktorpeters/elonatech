@@ -1,0 +1,4 @@
+Indexes in MongoDB are like , identifiers .
+
+
+They help the database to find things faster .

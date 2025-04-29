@@ -1,0 +1,1 @@
+what are indexes in mongodb, can you write a query to find a user by email efficeitly
