@@ -1,5 +1,6 @@
 import jwt from "jsonwebtoken";
 import { config } from "dotenv";
+config();
 
 // the token type represents the type of the token , whther access token or refresh token ,
 // the time should be put in seconds
