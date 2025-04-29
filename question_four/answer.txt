@@ -1,0 +1,6 @@
+1. In Next.js, API routes allow you to write server-side backend code directly inside your project, alongside your frontend 
+
+
+
+
+2.  the code is fairly the same as question one above, because of time , pls kindly check question_one's answer for clarity.

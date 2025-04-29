@@ -1,0 +1,5 @@
+how does api routing work in next js .
+
+
+
+write an api route that returns user details from mongodb
