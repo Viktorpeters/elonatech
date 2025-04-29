@@ -1,0 +1,38 @@
+what are the differences between getServerSideProps, getStaticProps, getStaticProps and getInitialProps in nextjs
+
+
+
+answers
+
+
+getStaticProps
+
+
+Runs at build time
+Page is pre-rendered to HTML + JSON
+Fast and SEO-friendly
+Can’t access request data
+
+
+etStaticPaths
+
+Works with getStaticProps for dynamic routes (e.g., /posts/[id])
+Tells Next.js which paths to pre-render
+
+
+
+getServerSideProps
+
+
+Runs on the server on each request
+Good for real-time or user-specific data
+Slower than getStaticProps (since it runs every time)
+
+
+
+getInitialProps
+
+
+Runs on both server (initial load) and client (route changes)
+Only works with custom _app.js or older pages
+Not recommended in modern apps (use the newer methods instead)

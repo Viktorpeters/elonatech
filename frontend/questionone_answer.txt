@@ -1,0 +1,7 @@
+Explain the difference between useState and useReducer .
+
+
+useState , is used to manage states , single data , can be string , boolean , objects , arrays 
+
+
+useReducer is used when the state becomes too many , useReducer is used to manage them collectively . it gives room for more cleaner code 
